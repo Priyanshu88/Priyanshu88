@@ -27,8 +27,9 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false"><br/> -->
  <p align="center" style="margin-right:0px;padding-right:0px">
 <!-- <img alt="" src="https://github-readme-stats.vercel.app/api?username=Priyanshu88&show_icons=true&theme=radical&hide_border=false"> -->
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false" />
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu88&show_icons=true&theme=radical" alt="Priyanshu88" /></p>
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false" />
+<!-- <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false" /> -->
 </p>
 </p>
 <br>
