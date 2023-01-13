@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <h2> 📊 Github Stats ....</h2>
+ <h2># 📊 Github Stats ....</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu88&theme=2077">
@@ -24,7 +24,13 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu88&theme=2077&utcOffset=8">
 	
+![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false)<br/>
+	
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Priyanshu88&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -37,8 +43,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyanshu88&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
