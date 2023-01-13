@@ -16,15 +16,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <h2># 📊 Github Stats ....</h2>
+ <h2> 📊 Github Stats ....</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu88&theme=2077&utcOffset=8">
-	
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false"><br/>
 	
 </p>
 
@@ -44,12 +43,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</p>
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=Priyanshu88&icon=4&color=4)](https://visitcount.itsvg.in)
 
