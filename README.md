@@ -24,7 +24,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu88&theme=2077">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu88&theme=2077&utcOffset=8">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false"><br/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false"><br/> -->
+ <p align="left" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu88&theme=radical&hide_border=false">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu88&theme=radical&hide_border=false" />
+</p>
 </p>
 <br>
 <hr>
