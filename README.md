@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on Full Stack Development as well as Data Science including Machine Learning, Deep Learning and Computer Vision Projects.
+- 🔭 I’m currently working on Full Stack Development as well as Data Science Projects.
 - 🌱 I’m currently learning React-Native for cross platform development with projects.
 - 👯 I’m looking to collaborate on Blockchain, Web3.0 using Thirdweb and open to explore other tools.
 - 🤔 I’m looking for help with Web3.0, Full Stack, Data Science and related technologies.
