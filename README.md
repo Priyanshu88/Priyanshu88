@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Priyanshu Pandey!
 </h1>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu88" alt="Priyanshu88" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Priyanshu88" alt="Priyanshu88" /> </p>
 
 
 <p align="center">
