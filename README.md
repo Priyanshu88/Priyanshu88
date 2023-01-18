@@ -26,11 +26,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br>
-
-
 <img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+<br>
+
+<!-- 
+<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -53,7 +55,7 @@
 <hr>
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical -->
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu88&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
@@ -71,7 +73,7 @@
 <hr>
 
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote:
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 </p>
@@ -84,7 +86,7 @@
 <br>
 <hr> -->
 
-# 😊 Thank You
+# 😊 Thank You:
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
