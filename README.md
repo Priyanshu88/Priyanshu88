@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+
+<h1 align="center">
+  Hi there 👋, I'm Priyanshu Pandey!
+</h1>
+ 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Student;Developer;Data+Enthusiast;interested+in+Blockchain" > 
+</p>
+
+
+</br> 
+
+<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+</br>
+
 # 💫 About Me:
 - 🔭 I’m currently working on Full Stack Development as well as Data Science Projects.
 - 🌱 I’m currently learning React-Native for cross platform development with projects.
