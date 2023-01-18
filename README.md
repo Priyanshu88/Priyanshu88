@@ -60,9 +60,10 @@
 </p>
 <br>
 <hr>
-## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+# ❤ Views and Followers
+
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=Priyanshu88&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
