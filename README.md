@@ -19,6 +19,7 @@
 </br> -->
 
 # 💫 About Me:
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🔭 I’m currently working on Full Stack Development as well as Data Science Projects.
 - 🌱 I’m currently learning React-Native for cross platform development with projects.
 - 👯 I’m looking to collaborate on Blockchain, Web3.0 using Thirdweb and open to explore other tools.
@@ -27,8 +28,8 @@
 - 📫 How to reach me: pandeypriyanshu833@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Searching Facts😂
-<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<!-- <img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ -->
 <br>
 
 <!-- 
