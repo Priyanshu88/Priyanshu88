@@ -1,7 +1,8 @@
 <h1 align="center">
   Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Priyanshu Pandey!
 </h1>
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu88" alt="Priyanshu88" /> </p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=I+am+an+Engineering+Student;I+am+a+Full-stack+Developer;I+am+a+Data+Sciene+Enthusiast;I+am+interested+in+Blockchain/Web3"/> 
@@ -22,10 +23,10 @@
 - 🌱 I’m currently learning React-Native for cross platform development with projects.
 - 👯 I’m looking to collaborate on Blockchain, Web3.0 using Thirdweb and open to explore other tools.
 - 🤔 I’m looking for help with Web3.0, Full Stack, Data Science and related technologies.
-- 💬 Ask me about Technologies and Consulting
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Technologies and Consulting.
+- 📫 How to reach me: pandeypriyanshu833@gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: Searching Facts😂
 <img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <br>
@@ -80,11 +81,8 @@
 <br>
 <hr>
 
-<!-- # ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=Priyanshu88&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
-<br>
-<hr> -->
+
 
 # 😊 Thank You:
 <p align="center">
