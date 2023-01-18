@@ -4,18 +4,18 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=I+am+an+engineering+Student;I+am+a+full-+stack+Developer;I+am+a+Data+Enthusiast;I+am+interested+in+Blockchain" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=I+am+an+Engineering+Student;I+am+a+Full-+stack+Developer;I+am+a+Data+Enthusiast;I+am+interested+in+Blockchain" > 
 </p>
 
+<p align="center">
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</p>
 
-<img align="center" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-</br> 
+<!-- </br> 
 
 <a href="#"><img  align = "center" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-</br>
+</br> -->
 
 # 💫 About Me:
 - 🔭 I’m currently working on Full Stack Development as well as Data Science Projects.
@@ -29,8 +29,8 @@
 <br>
 
 
-<!-- <img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- -->
+<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
