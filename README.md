@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there 👋, My name is Priyanshu Pandey!
+  Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Priyanshu Pandey!
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=I+am+an+Engineering+Student;I+am+a+Full-+stack+Developer;I+am+a+Data+Enthusiast;I+am+interested+in+Blockchain" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=I+am+an+Engineering+Student;I+am+a+Full-stack+Developer;I+am+a+Data+Sciene+Enthusiast;I+am+interested+in+Blockchain/Web3"/> 
 </p>
 
 <p align="center">
