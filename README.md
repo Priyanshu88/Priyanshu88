@@ -64,9 +64,10 @@
 # ❤ Views and Followers
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=Priyanshu88&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<br>
+<hr>
 
-
-<h2 align='left'>Thank You ❤</h2>
+# Thank You ❤
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
