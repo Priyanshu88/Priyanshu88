@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on Blockchain, Web3.0 using Thirdweb and open to explore other tools.
 - 🤔 I’m looking for help with Web3.0, Full Stack, Data Science and related technologies.
 - 💬 Ask me about Technologies and Consulting.
-- 📫 How to reach me: pandeypriyanshu833@gmail.com
+- 📫 How to reach me: 2040020@sliet.ac.in
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Searching Facts😂
 <!-- <img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
