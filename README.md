@@ -66,7 +66,9 @@
 
 # 👨‍💻 Relevant Profile:
 
-Comming soon..
+<a href="https://codeforces.com/profile/priyanshu90"><img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/priyanshu_76"><img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/priyanshu00"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/kaggle_logo_icon_168473.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/pandeypriyanshu833/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/pandeypriyanshu833"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210628182253/gfglogo.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/Priyanshu88"><img src="https://th.bing.com/th/id/R.b7384b7922d2b4a9db4f4c5e79726d3d?rik=UoE4NMwwix25sQ&pid=ImgRaw&r=0" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/pandeypriyanshu3"><img src="https://github.com/Priyanshu88/Priyanshu88/assets/86107841/ec4abe44-9f0b-49d7-8212-55fa7a0a586c" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@priyanshu477"><img src="https://www.ideaconnection.com/images/blogs/hackerearth-292.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://unstop.com/u/priyanshupan5091"><img src="https://github.com/Priyanshu88/Priyanshu88/assets/86107841/dab19799-bb06-4c34-bfe5-22269043f631" height="50" width="50"></a>
+
+
 
 <!-- # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
