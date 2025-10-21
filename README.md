@@ -85,6 +85,9 @@
 <hr>
 
 
+[![An image of @priyanshu88's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu88)](https://holopin.io/@priyanshu88)
+
+
 # ✍️ Random Dev Quote:
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
